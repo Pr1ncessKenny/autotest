@@ -19,7 +19,7 @@ public class FiveRequest {
     }
 
 
-    //карта мап купить
+    //карта мап купить1
     @Test
     public void firstTest() throws InterruptedException {
         driver.get(SITE_URL);
